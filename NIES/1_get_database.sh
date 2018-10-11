@@ -1,0 +1,1 @@
+wget --recursive --no-clobber --html-extension --span-hosts --convert-links --reject jpg,png,gif --restrict-file-names=windows --domains shigen.nig.ac.jp --no-parent -P ./data/raw_external/growth_temperatures/NIES/html_data/ http://www.shigen.nig.ac.jp/algae/top.jsp

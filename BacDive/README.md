@@ -1,0 +1,2 @@
+# Scripts to retrieve growth temperature data from BacDive
+BacDive provides an API that can be used to bulk-download their data. The bacdive.py script is written by them to provide a wrapper for that. When run, 1_BacDive_get_data.py fetches all records from BacDive and extracts organism names and growth temperatures. BacDive require that you pre-register with a username and password. Enter thes credentials in the credentials.txt file and they will be automagically used by the script. If a temperature span was given for the growth then the average was computed and stored.
