@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/152568491.svg)](https://zenodo.org/badge/latestdoi/152568491)
+
 # Obtaining microbial growth temperatures
 The scrips in this repository were used in a research study to obtain growth temperatures for microbes deposited in culture collection centers. The reference is:
 "Correlating enzyme annotations with a large set of microbial growth temperatures reveals metabolic adaptations to growth at diverse temperatures, by Martin Engqvist (https://doi.org/10.1101/271569 ).
