@@ -2,7 +2,7 @@
 
 # Obtaining microbial growth temperatures
 The scrips in this repository were used in a research study to obtain growth temperatures for microbes deposited in culture collection centers. The reference is:
-"Correlating enzyme annotations with a large set of microbial growth temperatures reveals metabolic adaptations to growth at diverse temperatures, by Martin Engqvist (https://doi.org/10.1101/271569 ).
+"Correlating enzyme annotations with a large set of microbial growth temperatures reveals metabolic adaptations to growth at diverse temperatures, by Martin Engqvist (https://doi.org/10.1186/s12866-018-1320-7).
 
 # A note on the the code
 Running this code will result in the downloading of VERY MANY html pages, on the order of several 100.000. The scripts may therefore intermittently fail and may need to be re-started. Organism names and temperatures are then mined form the downloaded html pages. The research study was conducted in 2016 and 2017 and the scripts worked well at that point. I will make no effort to keep them up to date with any changes in the html page format carried out by the culture collection centers. As a result, I cannot guarantee that the scripts will actually work when you run them. I post the scripts here in hope that they may be of some use in future research projects.
